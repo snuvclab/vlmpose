@@ -1,0 +1,408 @@
+{
+  "source_glb": "chess_board.glb",
+  "output_dir": "chess",
+  "asset_count": 33,
+  "assets": [
+    {
+      "name": "board",
+      "kind": "board",
+      "source_nodes": [
+        "Chess Board_02 - Default_0",
+        "Chess Board_03 - Default_0",
+        "Chess Board_07 - Default_0",
+        "Chess Board_08 - Default_0"
+      ],
+      "obj": "board.obj",
+      "mtl": "board.mtl",
+      "textures": [
+        "board_tex_1.png",
+        "board_tex_2.png",
+        "board_tex_3.png"
+      ]
+    },
+    {
+      "name": "b_bishop_1",
+      "kind": "piece",
+      "source_nodes": [
+        "B_Bishop_1_01 - Default_0"
+      ],
+      "obj": "b_bishop_1.obj",
+      "mtl": "b_bishop_1.mtl",
+      "textures": [
+        "black_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "b_bishop_2",
+      "kind": "piece",
+      "source_nodes": [
+        "B_Bishop_2_01 - Default_0"
+      ],
+      "obj": "b_bishop_2.obj",
+      "mtl": "b_bishop_2.mtl",
+      "textures": [
+        "black_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "b_king",
+      "kind": "piece",
+      "source_nodes": [
+        "B_King_01 - Default_0"
+      ],
+      "obj": "b_king.obj",
+      "mtl": "b_king.mtl",
+      "textures": [
+        "black_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "b_knight_1",
+      "kind": "piece",
+      "source_nodes": [
+        "B_Knight_1_01 - Default_0"
+      ],
+      "obj": "b_knight_1.obj",
+      "mtl": "b_knight_1.mtl",
+      "textures": [
+        "black_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "b_knight_2",
+      "kind": "piece",
+      "source_nodes": [
+        "B_Knight_2_01 - Default_0"
+      ],
+      "obj": "b_knight_2.obj",
+      "mtl": "b_knight_2.mtl",
+      "textures": [
+        "black_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "b_pawn_1",
+      "kind": "piece",
+      "source_nodes": [
+        "B_Pawn_1_01 - Default_0"
+      ],
+      "obj": "b_pawn_1.obj",
+      "mtl": "b_pawn_1.mtl",
+      "textures": [
+        "black_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "b_pawn_2",
+      "kind": "piece",
+      "source_nodes": [
+        "B_Pawn_2_01 - Default_0"
+      ],
+      "obj": "b_pawn_2.obj",
+      "mtl": "b_pawn_2.mtl",
+      "textures": [
+        "black_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "b_pawn_3",
+      "kind": "piece",
+      "source_nodes": [
+        "B_Pawn_3_01 - Default_0"
+      ],
+      "obj": "b_pawn_3.obj",
+      "mtl": "b_pawn_3.mtl",
+      "textures": [
+        "black_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "b_pawn_4",
+      "kind": "piece",
+      "source_nodes": [
+        "B_Pawn_4_01 - Default_0"
+      ],
+      "obj": "b_pawn_4.obj",
+      "mtl": "b_pawn_4.mtl",
+      "textures": [
+        "black_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "b_pawn_5",
+      "kind": "piece",
+      "source_nodes": [
+        "B_Pawn_5_01 - Default_0"
+      ],
+      "obj": "b_pawn_5.obj",
+      "mtl": "b_pawn_5.mtl",
+      "textures": [
+        "black_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "b_pawn_6",
+      "kind": "piece",
+      "source_nodes": [
+        "B_Pawn_6_01 - Default_0"
+      ],
+      "obj": "b_pawn_6.obj",
+      "mtl": "b_pawn_6.mtl",
+      "textures": [
+        "black_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "b_pawn_7",
+      "kind": "piece",
+      "source_nodes": [
+        "B_Pawn_7_01 - Default_0"
+      ],
+      "obj": "b_pawn_7.obj",
+      "mtl": "b_pawn_7.mtl",
+      "textures": [
+        "black_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "b_pawn_8",
+      "kind": "piece",
+      "source_nodes": [
+        "B_Pawn_8_01 - Default_0"
+      ],
+      "obj": "b_pawn_8.obj",
+      "mtl": "b_pawn_8.mtl",
+      "textures": [
+        "black_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "b_queen",
+      "kind": "piece",
+      "source_nodes": [
+        "B_Queen_01 - Default_0"
+      ],
+      "obj": "b_queen.obj",
+      "mtl": "b_queen.mtl",
+      "textures": [
+        "black_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "b_rook_1",
+      "kind": "piece",
+      "source_nodes": [
+        "B_Rook_1_01 - Default_0"
+      ],
+      "obj": "b_rook_1.obj",
+      "mtl": "b_rook_1.mtl",
+      "textures": [
+        "black_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "b_rook_2",
+      "kind": "piece",
+      "source_nodes": [
+        "B_Rook_2_01 - Default_0"
+      ],
+      "obj": "b_rook_2.obj",
+      "mtl": "b_rook_2.mtl",
+      "textures": [
+        "black_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "w_bishop_1",
+      "kind": "piece",
+      "source_nodes": [
+        "W_Bishop_1_02 - Default_0"
+      ],
+      "obj": "w_bishop_1.obj",
+      "mtl": "w_bishop_1.mtl",
+      "textures": [
+        "white_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "w_bishop_2",
+      "kind": "piece",
+      "source_nodes": [
+        "W_Bishop_2_02 - Default_0"
+      ],
+      "obj": "w_bishop_2.obj",
+      "mtl": "w_bishop_2.mtl",
+      "textures": [
+        "white_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "w_king",
+      "kind": "piece",
+      "source_nodes": [
+        "W_King_02 - Default_0"
+      ],
+      "obj": "w_king.obj",
+      "mtl": "w_king.mtl",
+      "textures": [
+        "white_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "w_knight_1",
+      "kind": "piece",
+      "source_nodes": [
+        "W_Knight_1_02 - Default_0"
+      ],
+      "obj": "w_knight_1.obj",
+      "mtl": "w_knight_1.mtl",
+      "textures": [
+        "white_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "w_knight_2",
+      "kind": "piece",
+      "source_nodes": [
+        "W_Knight_2_02 - Default_0"
+      ],
+      "obj": "w_knight_2.obj",
+      "mtl": "w_knight_2.mtl",
+      "textures": [
+        "white_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "w_pawn_1",
+      "kind": "piece",
+      "source_nodes": [
+        "W_Pawn_1_02 - Default_0"
+      ],
+      "obj": "w_pawn_1.obj",
+      "mtl": "w_pawn_1.mtl",
+      "textures": [
+        "white_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "w_pawn_2",
+      "kind": "piece",
+      "source_nodes": [
+        "W_Pawn_2_02 - Default_0"
+      ],
+      "obj": "w_pawn_2.obj",
+      "mtl": "w_pawn_2.mtl",
+      "textures": [
+        "white_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "w_pawn_3",
+      "kind": "piece",
+      "source_nodes": [
+        "W_Pawn_3_02 - Default_0"
+      ],
+      "obj": "w_pawn_3.obj",
+      "mtl": "w_pawn_3.mtl",
+      "textures": [
+        "white_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "w_pawn_4",
+      "kind": "piece",
+      "source_nodes": [
+        "W_Pawn_4_02 - Default_0"
+      ],
+      "obj": "w_pawn_4.obj",
+      "mtl": "w_pawn_4.mtl",
+      "textures": [
+        "white_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "w_pawn_5",
+      "kind": "piece",
+      "source_nodes": [
+        "W_Pawn_5_02 - Default_0"
+      ],
+      "obj": "w_pawn_5.obj",
+      "mtl": "w_pawn_5.mtl",
+      "textures": [
+        "white_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "w_pawn_6",
+      "kind": "piece",
+      "source_nodes": [
+        "W_Pawn_6_02 - Default_0"
+      ],
+      "obj": "w_pawn_6.obj",
+      "mtl": "w_pawn_6.mtl",
+      "textures": [
+        "white_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "w_pawn_7",
+      "kind": "piece",
+      "source_nodes": [
+        "W_Pawn_7_02 - Default_0"
+      ],
+      "obj": "w_pawn_7.obj",
+      "mtl": "w_pawn_7.mtl",
+      "textures": [
+        "white_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "w_pawn_8",
+      "kind": "piece",
+      "source_nodes": [
+        "W_Pawn_8_02 - Default_0"
+      ],
+      "obj": "w_pawn_8.obj",
+      "mtl": "w_pawn_8.mtl",
+      "textures": [
+        "white_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "w_queen",
+      "kind": "piece",
+      "source_nodes": [
+        "W_Queen_02 - Default_0"
+      ],
+      "obj": "w_queen.obj",
+      "mtl": "w_queen.mtl",
+      "textures": [
+        "white_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "w_rook_1",
+      "kind": "piece",
+      "source_nodes": [
+        "W_Rook_1_02 - Default_0"
+      ],
+      "obj": "w_rook_1.obj",
+      "mtl": "w_rook_1.mtl",
+      "textures": [
+        "white_piece_tex_1.png"
+      ]
+    },
+    {
+      "name": "w_rook_2",
+      "kind": "piece",
+      "source_nodes": [
+        "W_Rook_2_02 - Default_0"
+      ],
+      "obj": "w_rook_2.obj",
+      "mtl": "w_rook_2.mtl",
+      "textures": [
+        "white_piece_tex_1.png"
+      ]
+    }
+  ]
+}
