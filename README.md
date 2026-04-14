@@ -29,7 +29,7 @@ export OPENAI_API_KEY=your_openai_key
 # Example 1
 python3 mesh_setting.py  --target_scene_dir demo_data/table_teacup_teapot --text_prompt 'Pour the tea into the teacup using the teapot. The teapot is held in a natural pouring pose, with the handle slightly raised and the spout tilted downward toward the teacup.'
 # Example 2
-python3 mesh_setting.py  --target_scene_dir demo_data/chess --text_prompt 'Move the black knight from g8 to f6 using standard chessboard coordinates. Place the knight centered entirely within square f6, without crossing into adjacent squares.'
+python3 mesh_setting.py  --target_scene_dir demo_data/chess --text_prompt 'Move the black knight from g8 to f6, the square directly in front of the black pawn on f7, using standard chessboard coordinates. Place the knight centered entirely within square f6, without crossing into adjacent squares.'
 ```
 
 ### Tip
