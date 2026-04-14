@@ -1,6 +1,6 @@
 # [ArXiv 2026] Text-Guided 6D Object Pose Rearrangement via Closed-Loop VLM Agents
 
-## [Project Page](https://tlb-miss.github.io/vlmpose/) &nbsp;|&nbsp; [Paper](https://arxiv.org/pdf/2511.20446) 
+## [Project Page](https://tlb-miss.github.io/vlmpose/) &nbsp;|&nbsp; [Paper](https://arxiv.org/pdf/2604.09781) 
 
 ## Installation
 
@@ -46,7 +46,7 @@ As in the example, the more detailed you write the ``--text_prompt``, the more l
 @article{vlmpose,
       title={Text-Guided 6D Object Pose Rearrangement via Closed-Loop VLM Agents}, 
       author={Baik, Sangwon and Kim, Gunhee and Choi, Mingi and Joo, Hanbyul},
-      journal={arXiv:2511.20446},
+      journal={arXiv:2604.09781},
       year={2026}
 }
 ```
